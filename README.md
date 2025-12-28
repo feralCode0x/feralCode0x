@@ -3,22 +3,7 @@
 - 🌱 I’m currently learning solana anchor
 
 ## Skills & Tools
-
-- Javascript
-- Typescript
-- Solidity
-- Remix
-- Cast
-- Linux
-- Node
-- React
-- Angular
-- Express
-- Web3
-- Ethers
-- Mongodb
-- Html
-- Css
+· Javascrip · Typescript · Solidity · Remix · Node · React · Angular · Express · Web3 · Ethers · Mongodb · Cast · Linux · Html · Css
 
 <!--
 **feralCode0x/feralCode0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

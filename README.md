@@ -1,10 +1,10 @@
 ## Hi there 👋
 - 🔭 I’m currently avaliable for work on fullstack blockchain
-- 🌱 I’m currently learning solana anchor
+- 🌱 I’m currently learning Rust, Solana, Anchor
 
 ## Skills & Tools
 · Javascrip · Typescript · Solidity · Remix · Node · React · Angular · Express 
-· Web3 · Ethers · Mongodb · Cast · Linux · Html · Css
+· Web3 · Ethers · Go · PostgreSQL · Mongodb · Cast · Linux · Html · Css
 
 <!--
 **feralCode0x/feralCode0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

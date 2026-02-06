@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🐈‍⬛
 - 🔭 I’m currently avaliable for work on fullstack blockchain
 - 🌱 I’m currently learning Rust, Solana and cybersecurity
 

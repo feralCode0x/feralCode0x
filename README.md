@@ -9,8 +9,11 @@
 
 ## Skills
 · Dapp's Descentrilize aplications like dexes, troken, token crowdsale, staking in solidity, rust, golang 
+
 · Core Blockchain in golang and rust creating your own cryptocurrency blockchain and proof of work and proof of stake systems
-· Blockchain security audit in Solidity llennguaje, a review of your smart contract searching for vulnarable functions or posible entrancy or attack vectors, not all developers know security is important to have a human reviiew at least of your millionare proyect.
+
+· Blockchain security audit in Solidity llennguaje, a review of your smart contract searching for vulnarable functions or posible entrancy or attack vectors, not all developers know security is important to have a human reviiew at least of your millionare proyect
+
 · Node javascript and traditional system payments and logistic like ecommerce, horel booking, restorant aplications using our favorite frameworks like Vite(ex-react) Next and angular, also the use of typescript.
 
 ## Soft Skills

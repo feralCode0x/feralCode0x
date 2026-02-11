@@ -1,11 +1,11 @@
 ## Hi there, Feral here
 - 💻 I’m currently avaliable for work on fullstack blockchain
-- 🌱 I’m currently learning Rust, Solana and cybersecurity
+- 🔒 I also have skills blockchain security 
+- 🌱 I’m currently learning Rust, Solana and networking.
 
-## Tools
-· Javascrip · Typescript · Solidity · Remix · Node · React · Angular · Express 
-· Web3 · Ethers · Go · PostgreSQL · Mongodb · Cast · Linux · Html · Css
-
+## Languages, frameworks & tools
+· Javascrip · Typescript · Solidity · Node · React · Angular · Next · Axios · Express · Redux · Redis 
+· Web3 · Ethers · Remix · Go · PostgreSQL · Mongodb · Cast · Linux · Html · Css 
 
 ## Skills
 · Dapp's Descentrilize aplications like dexes, troken, token crowdsale, staking in solidity, rust, golang 
@@ -17,7 +17,7 @@
 · Node javascript and traditional system payments and logistic like ecommerce, horel booking, restorant aplications using our favorite frameworks like Vite(ex-react) Next and angular, also the use of typescript.
 
 ## Soft Skills
-· Leadership and entrepreneur mindset 15 years of independent freelance working in cinematography and video, photography, knowledge in art, and selftaught knowledge in marketing, trading and psychology.
+· Leadership and entrepreneur mindset 15 years of independent freelance working in cinematography and video, photography, knowledge in art, and selftaught knowledge in marketing, estrategic, trading and psychology.
 
 <!--
 **feralCode0x/feralCode0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

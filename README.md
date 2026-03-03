@@ -8,7 +8,7 @@
 · Web3 · Ethers · Remix · Go · PostgreSQL · Mongodb · Cast · Linux · Html · Css 
 
 ## Skills
-· Dapp's Descentrilize aplications like dexes, troken, token crowdsale, staking in solidity, rust, golang 
+· Dapp's Descentrilize aplications like dexes, troken, token crowdsale, bridges, staking, in solidity
 
 · Core Blockchain in golang and rust creating your own cryptocurrency blockchain and proof of work and proof of stake systems
 
